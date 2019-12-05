@@ -1,0 +1,10 @@
+# Project exclude paths
+/105-cloud-1202-common/target/
+/105-cloud-1202-config/target/
+/105-cloud-1202-config2/target/
+/105-cloud-1202-eureka/target/
+/105-cloud-1202-eureka02/target/
+/105-cloud-1202-feign-consumer/target/
+/105-cloud-1202-provider/target/
+/105-cloud-1202-ribbon-consumer/target/
+/105-cloud-1202-zuul/target/
