@@ -9,7 +9,7 @@ package com.qy105.aaa.filter;
 public class DemoGit {
     public static void main(String[] args) {
         System.out.println("demo git");
-        System.out.println("demo3 git");
+        System.out.println("demo2 git");
     }
 
 }
