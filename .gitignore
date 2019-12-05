@@ -8,3 +8,14 @@
 /105-cloud-1202-provider/target/
 /105-cloud-1202-ribbon-consumer/target/
 /105-cloud-1202-zuul/target/
+
+#gitignore
+.idea
+*.iml
+*.ipr
+*.iws
+*.ids
+
+.settings
+.classpath
+.project
